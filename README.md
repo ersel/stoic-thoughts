@@ -12,9 +12,15 @@ Stoicism doesn’t concern itself with complicated theories about the world, but
 
 # Further Reading
 https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised
+
 https://howtobeastoic.wordpress.com/meditations/
+
 https://howtobeastoic.wordpress.com/2016/10/13/how-i-practice-stoicism-the-nuts-and-bolts/
+
 https://dailystoic.com/stoic-meditations/
+
 https://www.brainpickings.org/2014/12/10/joanna-macy-a-year-with-rilke-death-mortality/
+
 https://www.brainpickings.org/2013/03/15/a-calendar-of-wisdom-tolstoy/
+
 https://www.sott.net/article/334376-Seneca-Epictetus-and-Marcus-Aurelius-timeless-stoic-philosophy-that-is-essential-to-the-human-spirit
