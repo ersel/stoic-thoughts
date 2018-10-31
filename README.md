@@ -3,6 +3,8 @@ Small shell script I wrote to engage in stoic thought every day.
 It picks a random quote out of 400 quotes from Seneca, Epictetus and Marcus Aurelius.
 Feel free to open a PR to add any other stoic quote you like.
 
+If you like this, you might also be interested in a [collection of 300 maxims from Baltasar Gracian's The Art of Worldly Wisdom, 1647.](https://github.com/ersel/the-art-of-worldly-wisdom)
+
 # What is Stoicism?
 Stoicism was founded in Athens by Zeno of Citium in the early 3rd century BC, but was famously practiced by the likes of Epictetus, Seneca and Marcus Aurelius. The philosophy asserts that virtue (such as wisdom) is happiness and judgment should be based on behavior, rather than words. That we don’t control and cannot rely on external events, only ourselves and our responses.
 
